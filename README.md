@@ -7,8 +7,8 @@
 
 |Task.         |Info                      |
 |--------------|--------------------------|
-|D00 - D13.    |Tasks of each day         |
-|RUSH00,01,02  |Group projects (size of 3)|
+|D00 - D13     |Tasks of each day         |
+|RUSH00 01 02  |Group projects (size of 3)|
 |EvalExpr      |Individual project        |
 |Sastantua     |Individual project        |
 |Match-N-Match |Individual project        |
